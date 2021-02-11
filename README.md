@@ -7,3 +7,6 @@ Instructions :
 2. Put all the downloads under a same folder.
 3. Open index.html in the browser.
 4. Enjoy the beauty of the tindog website.
+
+
+Check it live at: https://smart-worker.github.io/TinDog-website/
