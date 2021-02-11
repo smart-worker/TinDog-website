@@ -1,5 +1,5 @@
 You have seen Tinder, but I bet you haven't seen tindog yet.
-Why wait, follow the instructions and visit my tindog website and experience the beauty.
+Why wait, follow the instructions and visit my tindog website(front-end only) and experience the beauty.
 
 Instructions :
 
